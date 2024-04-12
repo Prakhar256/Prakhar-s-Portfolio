@@ -32,8 +32,8 @@ const Homepage = () => {
           {/* BUTTONS */}
           <div className="w-full flex gap-4">
             <button className="p-4 rounded-lg ring-1 ring-black bg-black text-white">
-              <a href="/portfolio" className="block">
-                View My Work
+              <a href="https://drive.google.com/file/d/1cmAdDSfDq1u9VM0fnOD56q-MzN5ZWdMq/view?usp=drive_link" className="block">
+                Resume
               </a>
             </button>
 
