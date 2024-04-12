@@ -84,7 +84,7 @@ const Navbar = () => {
         >
           <span className="text-white mr-1">Prakhar</span>
           <span className="w-12 h-8 rounded bg-white text-black flex items-center justify-center">
-            .dev
+            Jain
           </span>
         </Link>
       </div>
